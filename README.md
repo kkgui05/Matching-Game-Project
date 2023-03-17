@@ -1,5 +1,14 @@
 # Matching-Game-Project
+
+Author: kkgui05
+
 This C++ program is a guessing game of matching numbers in a 2D array. There are two 2D arrays - one array is visible to the user while the other array (the answer array) is not visible to the user.
+
+How to use:
+
+Clone the repository or download the code file,
+Compile the program using any C++ compiler,
+Run the program
 
 Running the Program: 
 To run the program, compile the source code using a C++ compiler and run the resulting executable. The program will prompt the user to enter an email address to play the game. The email address is validated using the isWrongFormat function that checks if the email is in the correct format.
